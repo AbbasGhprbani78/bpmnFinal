@@ -5,6 +5,7 @@
   </div>
 </template>
 
+
 <script>
 import { useRoute, useRouter } from "vue-router";
 import SliderPage from "./components/SliderPage.vue";
